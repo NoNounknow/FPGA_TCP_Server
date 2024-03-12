@@ -1,0 +1,127 @@
+$date
+        2024-Feb-19 17:34:25
+$end
+$version
+        Vivado v2023.2 (64-bit)
+$end
+$timescale
+        1ps
+$end
+$scope module dut $end
+$var reg 8 " design_1_i/DMA_Loop_top_0/inst/I_wr_index [7:0] $end
+$var reg 1 * design_1_i/DMA_Loop_top_0/inst/I_rd_start $end
+$var reg 24 + design_1_i/DMA_Loop_top_0/inst/I_D_Size [23:0] $end
+$var reg 1 C design_1_i/DMA_Loop_top_0/inst/O_Post_Start $end
+$var reg 16 D design_1_i/DMA_Loop_top_0/inst/O_Post_data_1 [15:0] $end
+$var reg 1 T design_1_i/DMA_Loop_top_0/inst/I_Post_de $end
+$var reg 1 U design_1_i/DMA_Loop_top_0/inst/I_Post_vs $end
+$var reg 8 V design_1_i/DMA_Loop_top_0/inst/rd_index_ptr [7:0] $end
+$var reg 32 ^ design_1_i/DMA_Loop_top_0/inst/rd_base_addr [31:0] $end
+$var reg 1 ~ design_1_i/DMA_Loop_top_0/inst/rd_start_cycle $end
+$var reg 1 !" design_1_i/DMA_Loop_top_0/inst/rd_brust_Req $end
+$var reg 1 "" design_1_i/DMA_Loop_top_0/inst/axi_arvalid $end
+$var reg 1 #" design_1_i/DMA_Loop_top_0/inst/M_AXI_ARREADY $end
+$var reg 32 $" design_1_i/DMA_Loop_top_0/inst/axi_araddr [31:0] $end
+$var reg 25 D" design_1_i/DMA_Loop_top_0/inst/D_Total_Frame_Offset [24:0] $end
+$var reg 25 ]" design_1_i/DMA_Loop_top_0/inst/D_rd_burst_times [24:0] $end
+$var reg 1 v" design_1_i/DMA_Loop_top_0/inst/rd_brust_end $end
+$var reg 1 w" design_1_i/DMA_Loop_top_0/inst/rd_brust_start $end
+$var reg 1 x" design_1_i/DMA_Loop_top_0/inst/<const0>_1 $end
+$var reg 1 y" design_1_i/DMA_Loop_top_0/inst/<const0>_2 $end
+$var reg 1 z" design_1_i/DMA_Loop_top_0/inst/<const0>_3 $end
+$var reg 1 {" design_1_i/DMA_Loop_top_0/inst/<const0>_4 $end
+$var reg 1 |" design_1_i/DMA_Loop_top_0/inst/<const0>_5 $end
+$var reg 1 }" design_1_i/DMA_Loop_top_0/inst/<const0>_6 $end
+$var reg 1 ~" design_1_i/DMA_Loop_top_0/inst/<const0>_7 $end
+$var reg 1 !# design_1_i/DMA_Loop_top_0/inst/<const0>_8 $end
+$var reg 1 "# design_1_i/DMA_Loop_top_0/inst/<const0>_9 $end
+$var reg 1 ## design_1_i/DMA_Loop_top_0/inst/<const0>_10 $end
+$var reg 1 $# design_1_i/DMA_Loop_top_0/inst/<const0>_11 $end
+$var reg 1 %# design_1_i/DMA_Loop_top_0/inst/<const0>_12 $end
+$var reg 1 &# design_1_i/DMA_Loop_top_0/inst/<const0>_13 $end
+$var reg 1 '# design_1_i/DMA_Loop_top_0/inst/<const0>_14 $end
+$var reg 1 (# design_1_i/DMA_Loop_top_0/inst/<const0>_15 $end
+$var reg 1 )# design_1_i/DMA_Loop_top_0/inst/<const0>_16 $end
+$var reg 1 *# design_1_i/DMA_Loop_top_0/inst/<const0>_17 $end
+$var reg 1 +# design_1_i/DMA_Loop_top_0/inst/<const0>_18 $end
+$var reg 1 ,# design_1_i/DMA_Loop_top_0/inst/<const0>_19 $end
+$var reg 1 -# design_1_i/DMA_Loop_top_0/inst/<const0>_20 $end
+$var reg 1 .# design_1_i/DMA_Loop_top_0/inst/<const0>_21 $end
+$var reg 1 /# design_1_i/DMA_Loop_top_0/inst/<const0>_22 $end
+$var reg 1 0# design_1_i/DMA_Loop_top_0/inst/<const0>_23 $end
+$var reg 1 1# design_1_i/DMA_Loop_top_0/inst/rd_brust_now $end
+$var reg 1 2# design_1_i/DMA_Loop_top_0/inst/<const0>_24 $end
+$var reg 1 3# design_1_i/DMA_Loop_top_0/inst/<const0>_25 $end
+$var reg 1 4# design_1_i/DMA_Loop_top_0/inst/<const0>_26 $end
+$var reg 1 5# design_1_i/DMA_Loop_top_0/inst/<const0>_27 $end
+$var reg 1 6# design_1_i/DMA_Loop_top_0/inst/<const0>_28 $end
+$var reg 1 7# design_1_i/DMA_Loop_top_0/inst/<const0>_29 $end
+$var reg 1 8# design_1_i/DMA_Loop_top_0/inst/<const0> $end
+$var reg 12 9# design_1_i/DMA_Loop_top_0/inst/Post_vcnt [11:0] $end
+$var reg 12 E# design_1_i/DMA_Loop_top_0/inst/Post_hcnt [11:0] $end
+$var reg 16 Q# design_1_i/DMA_Loop_top_0/inst/O_Post_data [15:0] $end
+$var reg 1 a# _TRIGGER $end
+$var reg 1 b# _WINDOW $end
+$var reg 1 c# _GAP $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b10 "
+0*
+b0 +
+0C
+b0 D
+0T
+0U
+b0 V
+b0 ^
+0~
+0!"
+0""
+1#"
+b0 $"
+b0 D"
+b0 ]"
+0v"
+0w"
+0x"
+0y"
+0z"
+0{"
+0|"
+0}"
+0~"
+0!#
+0"#
+0##
+0$#
+0%#
+0&#
+0'#
+0(#
+0)#
+0*#
+0+#
+0,#
+0-#
+0.#
+0/#
+00#
+01#
+02#
+03#
+04#
+05#
+06#
+07#
+08#
+b0 9#
+b0 E#
+b0 Q#
+0a#
+1b#
+0c#
+$end
+#2048
+1a#

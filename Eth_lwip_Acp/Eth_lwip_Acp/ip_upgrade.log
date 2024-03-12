@@ -1,0 +1,153 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Sat Feb 24 01:20:50 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_DMA_Loop_PsRd_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the update of design_1_DMA_Loop_PsRd_0_1 (xilinx.com:user:DMA_Loop_PsRd:1.0 (Rev. 5)) to current project options.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Fri Feb 23 16:56:06 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_DMA_Loop_PsRd_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_DMA_Loop_PsRd_0_1 (xilinx.com:user:DMA_Loop_PsRd:1.0) from (Rev. 4) to (Rev. 5)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Fri Feb 23 16:56:06 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_DMA_Loop_AcpWr_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_DMA_Loop_AcpWr_0_0 (xilinx.com:user:DMA_Loop_AcpWr:1.0) from (Rev. 4) to (Rev. 5)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Fri Feb 23 16:52:47 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_DMA_Loop_AcpWr_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the update of design_1_DMA_Loop_AcpWr_0_0 (xilinx.com:user:DMA_Loop_AcpWr:1.0 (Rev. 4)) to current project options.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Fri Feb 23 16:11:08 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_DMA_Loop_AcpWr_0_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of design_1_DMA_Loop_AcpWr_0_0 (xilinx.com:user:DMA_Loop_AcpWr:1.0) from (Rev. 3) to (Rev. 4)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'design_1_DMA_Loop_AcpWr_0_0'. These changes may impact your design.
+
+
+-Upgraded port 'I_Pre_data' width 16 differs from original width 24
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Fri Feb 23 12:42:09 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_DMA_Loop_PsRd_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the update of design_1_DMA_Loop_PsRd_0_1 (xilinx.com:user:DMA_Loop_PsRd:1.0 (Rev. 4)) to current project options.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Fri Feb 23 02:32:52 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_DMA_Loop_PsRd_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_DMA_Loop_PsRd_0_1 (xilinx.com:user:DMA_Loop_PsRd:1.0) from (Rev. 3) to (Rev. 4)
+

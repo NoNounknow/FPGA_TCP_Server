@@ -1,0 +1,33 @@
++====================+===================+========================================================+
+| Launch Setup Clock | Launch Hold Clock | Pin                                                    |
++====================+===================+========================================================+
+| clk_fpga_0         | clk_fpga_0        | design_1_i/DMA_Loop_top_0/inst/Post_Start_reg/D        |
+| clk_fpga_0         | clk_fpga_0        | design_1_i/HDMI_Para_Cut_0/inst/r1_Cut_High_reg[2]/D   |
+| clk_fpga_0         | clk_fpga_0        | design_1_i/HDMI_Para_Cut_0/inst/r1_Cut_Width_reg[10]/D |
+| clk_fpga_0         | clk_fpga_0        | design_1_i/HDMI_Para_Cut_0/inst/r1_Cut_High_reg[4]/D   |
+| clk_fpga_0         | clk_fpga_0        | design_1_i/HDMI_Para_Cut_0/inst/r1_Cut_Width_reg[4]/D  |
+| clk_fpga_0         | clk_fpga_0        | design_1_i/HDMI_Para_Cut_0/inst/r1_sel_bit_reg[2]/D    |
+| clk_fpga_0         | clk_fpga_0        | design_1_i/HDMI_Para_Cut_0/inst/r1_sel_bit_reg[0]/D    |
+| clk_fpga_0         | clk_fpga_0        | design_1_i/HDMI_Para_Cut_0/inst/r1_Cut_Width_reg[5]/D  |
+| clk_fpga_0         | clk_fpga_0        | design_1_i/HDMI_Para_Cut_0/inst/r1_Cut_Width_reg[11]/D |
+| clk_fpga_0         | clk_fpga_0        | design_1_i/HDMI_Para_Cut_0/inst/r1_sel_bit_reg[3]/D    |
+| clk_fpga_0         | clk_fpga_0        | design_1_i/HDMI_Para_Cut_0/inst/r1_Cut_Width_reg[6]/D  |
+| clk_fpga_0         | clk_fpga_0        | design_1_i/HDMI_Para_Cut_0/inst/r1_Cut_High_reg[11]/D  |
+| clk_fpga_0         | clk_fpga_0        | design_1_i/HDMI_Para_Cut_0/inst/r1_Cut_Width_reg[8]/D  |
+| clk_fpga_0         | clk_fpga_0        | design_1_i/HDMI_Para_Cut_0/inst/r1_Cut_High_reg[9]/D   |
+| clk_fpga_0         | clk_fpga_0        | design_1_i/HDMI_Para_Cut_0/inst/r1_Cut_High_reg[7]/D   |
+| clk_fpga_0         | clk_fpga_0        | design_1_i/HDMI_Para_Cut_0/inst/r1_Cut_High_reg[3]/D   |
+| clk_fpga_0         | clk_fpga_0        | design_1_i/HDMI_Para_Cut_0/inst/r1_Cut_High_reg[6]/D   |
+| clk_fpga_0         | clk_fpga_0        | design_1_i/HDMI_Para_Cut_0/inst/r1_sel_bit_reg[1]/D    |
+| clk_fpga_0         | clk_fpga_0        | design_1_i/HDMI_Para_Cut_0/inst/r1_Cut_Width_reg[0]/D  |
+| clk_fpga_0         | clk_fpga_0        | design_1_i/HDMI_Para_Cut_0/inst/r1_Cut_Width_reg[9]/D  |
+| clk_fpga_0         | clk_fpga_0        | design_1_i/HDMI_Para_Cut_0/inst/r1_Cut_High_reg[0]/D   |
+| clk_fpga_0         | clk_fpga_0        | design_1_i/HDMI_Para_Cut_0/inst/r1_Cut_Width_reg[3]/D  |
+| clk_fpga_0         | clk_fpga_0        | design_1_i/HDMI_Para_Cut_0/inst/r1_Cut_High_reg[8]/D   |
+| clk_fpga_0         | clk_fpga_0        | design_1_i/HDMI_Para_Cut_0/inst/r1_Cut_Width_reg[1]/D  |
+| clk_fpga_0         | clk_fpga_0        | design_1_i/HDMI_Para_Cut_0/inst/r1_Cut_Width_reg[2]/D  |
+| clk_fpga_0         | clk_fpga_0        | design_1_i/HDMI_Para_Cut_0/inst/r1_Cut_High_reg[1]/D   |
+| clk_fpga_0         | clk_fpga_0        | design_1_i/HDMI_Para_Cut_0/inst/r1_Cut_High_reg[10]/D  |
+| clk_fpga_0         | clk_fpga_0        | design_1_i/HDMI_Para_Cut_0/inst/r1_Cut_Width_reg[7]/D  |
+| clk_fpga_0         | clk_fpga_0        | design_1_i/HDMI_Para_Cut_0/inst/r1_Cut_High_reg[5]/D   |
++--------------------+-------------------+--------------------------------------------------------+

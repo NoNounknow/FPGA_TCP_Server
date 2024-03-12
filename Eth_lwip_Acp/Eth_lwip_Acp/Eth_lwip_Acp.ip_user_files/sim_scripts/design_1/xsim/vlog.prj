@@ -1,0 +1,41 @@
+verilog xil_defaultlib --include "D:/Xil_23/Vivado/2023.2/data/xilinx_vip/include" --include "../../../../Eth_lwip_Acp.gen/sources_1/bd/design_1/ipshared/ec67/hdl" --include "../../../../Eth_lwip_Acp.gen/sources_1/bd/design_1/ipshared/6b2b/hdl" --include "../../../../Eth_lwip_Acp.gen/sources_1/bd/design_1/ipshared/c2c6" --include "../../../../Eth_lwip_Acp.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog" --include "../../../../Eth_lwip_Acp.gen/sources_1/bd/design_1/ip/design_1_DMA_Loop_top_0_0/src/AXI_ILA/hdl/verilog" --include "../../../../Eth_lwip_Acp.gen/sources_1/bd/design_1/ip/src/AXI_ILA/hdl/verilog" \
+"../../../bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v" \
+"../../../bd/design_1/ip/design_1_xlconstant_0_0/sim/design_1_xlconstant_0_0.v" \
+"../../../bd/design_1/ip/design_1_clk_wiz_0_0/design_1_clk_wiz_0_0_clk_wiz.v" \
+"../../../bd/design_1/ip/design_1_clk_wiz_0_0/design_1_clk_wiz_0_0.v" \
+"../../../bd/design_1/ipshared/02b7/hdl/axilite_reg_deepth256_v1_0_S00_AXI.v" \
+"../../../bd/design_1/ipshared/02b7/hdl/axilite_reg_deepth256_v1_0.v" \
+"../../../bd/design_1/ip/design_1_axilite_reg_deepth256_0_0/sim/design_1_axilite_reg_deepth256_0_0.v" \
+"../../../bd/design_1/ipshared/751d/src/Mux_51.v" \
+"../../../bd/design_1/ip/design_1_Mux_51_0_0/sim/design_1_Mux_51_0_0.v" \
+"../../../bd/design_1/ip/design_1_xlconstant_2_0/sim/design_1_xlconstant_2_0.v" \
+"../../../bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/sim/HDMI_ILA.v" \
+"../../../bd/design_1/ipshared/0df3/image_process/Gamma_06_Period.v" \
+"../../../bd/design_1/ipshared/0df3/hdmi/VTC_TIMEING.v" \
+"../../../bd/design_1/ipshared/0df3/hdmi/asyn_rst_syn.v" \
+"../../../bd/design_1/ipshared/0df3/hdmi/encode.v" \
+"../../../bd/design_1/ipshared/0df3/hdmi/serializer_10_to_1.v" \
+"../../../bd/design_1/ipshared/0df3/hdmi/HDMI_TX.v" \
+"../../../bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/sim/design_1_HDMI_Para_Cut_0_0.v" \
+"../../../bd/design_1/ip/design_1_DMA_Loop_top_0_0/src/as_rdata_w64x2048_r16x8192/sim/as_rdata_w64x2048_r16x8192.v" \
+"../../../bd/design_1/ip/design_1_DMA_Loop_top_0_0/src/wdata_w64x1024_r64x1024/sim/wdata_w64x1024_r64x1024.v" \
+"../../../bd/design_1/ip/design_1_DMA_Loop_top_0_0/src/AXI_ILA/sim/AXI_ILA.v" \
+"../../../bd/design_1/ipshared/27b5/Data_sync_ext.v" \
+"../../../bd/design_1/ipshared/27b5/DMA_Loop_top.v" \
+"../../../bd/design_1/ip/design_1_DMA_Loop_top_0_0/sim/design_1_DMA_Loop_top_0_0.v" \
+"../../../bd/design_1/ipshared/324f/Ps_Intr_Cnt.v" \
+"../../../bd/design_1/ip/design_1_Ps_Intr_Cnt_0_0/sim/design_1_Ps_Intr_Cnt_0_0.v" \
+"../../../bd/design_1/ipshared/26f1/DMA_Loop_PsRd.v" \
+"../../../bd/design_1/ip/design_1_DMA_Loop_PsRd_0_1/sim/design_1_DMA_Loop_PsRd_0_1.v" \
+"../../../bd/design_1/ipshared/98ce/DMA_Loop_AcpWr.v" \
+"../../../bd/design_1/ip/design_1_DMA_Loop_AcpWr_0_0/sim/design_1_DMA_Loop_AcpWr_0_0.v" \
+"../../../bd/design_1/ip/design_1_auto_pc_0/sim/design_1_auto_pc_0.v" \
+"../../../bd/design_1/ip/design_1_auto_pc_1/sim/design_1_auto_pc_1.v" \
+"../../../bd/design_1/ip/design_1_auto_pc_2/sim/design_1_auto_pc_2.v" \
+"../../../bd/design_1/ip/design_1_auto_pc_3/sim/design_1_auto_pc_3.v" \
+"../../../bd/design_1/sim/design_1.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

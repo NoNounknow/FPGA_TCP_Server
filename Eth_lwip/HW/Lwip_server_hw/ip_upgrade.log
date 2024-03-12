@@ -1,0 +1,1338 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Tue Feb 20 23:37:20 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_2_DMA_Loop_top_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_2_DMA_Loop_top_0_0 (xilinx.com:user:DMA_Loop_top:1.0) from (Rev. 13) to (Rev. 14)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Tue Feb 20 23:37:18 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_DMA_Loop_top_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_DMA_Loop_top_0_0 (xilinx.com:user:DMA_Loop_top:1.0) from (Rev. 13) to (Rev. 14)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Mon Feb 19 19:26:24 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_DMA_Loop_top_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_DMA_Loop_top_0_0 (xilinx.com:user:DMA_Loop_top:1.0) from (Rev. 12) to (Rev. 13)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Mon Feb 19 17:41:20 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_DMA_Loop_top_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the update of design_1_DMA_Loop_top_0_0 (xilinx.com:user:DMA_Loop_top:1.0 (Rev. 12)) to current project options.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Sun Feb 18 23:04:08 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_HDMI_Para_Cut_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the update of design_1_HDMI_Para_Cut_0_0 (xilinx.com:user:HDMI_Para_Cut:1.0 (Rev. 13)) to current project options.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Sun Feb 18 19:14:47 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_HDMI_Para_Cut_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_HDMI_Para_Cut_0_0 (xilinx.com:user:HDMI_Para_Cut:1.0) from (Rev. 12) to (Rev. 13)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Sun Feb 18 19:13:52 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_HDMI_Para_Cut_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the update of design_1_HDMI_Para_Cut_0_0 (xilinx.com:user:HDMI_Para_Cut:1.0 (Rev. 12)) to current project options.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Sun Feb 18 15:17:17 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_DMA_Loop_top_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the update of design_1_DMA_Loop_top_0_0 (xilinx.com:user:DMA_Loop_top:1.0 (Rev. 12)) to current project options.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Sun Feb 18 15:11:55 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_DMA_Loop_top_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the update of design_1_DMA_Loop_top_0_0 (xilinx.com:user:DMA_Loop_top:1.0 (Rev. 12)) to current project options.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Sun Feb 18 14:16:11 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_HDMI_Para_Cut_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the update of design_1_HDMI_Para_Cut_0_0 (xilinx.com:user:HDMI_Para_Cut:1.0 (Rev. 12)) to current project options.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Sun Feb 18 14:14:28 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_HDMI_Para_Cut_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_HDMI_Para_Cut_0_0 (xilinx.com:user:HDMI_Para_Cut:1.0) from (Rev. 11) to (Rev. 12)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Sun Feb 18 14:08:38 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_HDMI_Para_Cut_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the update of design_1_HDMI_Para_Cut_0_0 (xilinx.com:user:HDMI_Para_Cut:1.0 (Rev. 11)) to current project options.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Sun Feb 18 14:06:28 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_HDMI_Para_Cut_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the update of design_1_HDMI_Para_Cut_0_0 (xilinx.com:user:HDMI_Para_Cut:1.0 (Rev. 11)) to current project options.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Sun Feb 18 12:25:18 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_DMA_Loop_top_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the update of design_1_DMA_Loop_top_0_0 (xilinx.com:user:DMA_Loop_top:1.0 (Rev. 12)) to current project options.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Sun Feb 18 12:21:47 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_DMA_Loop_top_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_DMA_Loop_top_0_0 (xilinx.com:user:DMA_Loop_top:1.0) from (Rev. 11) to (Rev. 12)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Sun Feb 18 01:43:22 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_HDMI_Para_Cut_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_HDMI_Para_Cut_0_0 (xilinx.com:user:HDMI_Para_Cut:1.0) from (Rev. 10) to (Rev. 11)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Sun Feb 18 01:24:24 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_DMA_Loop_top_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the update of design_1_DMA_Loop_top_0_0 (xilinx.com:user:DMA_Loop_top:1.0 (Rev. 11)) to current project options.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Sun Feb 18 01:17:58 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_HDMI_Para_Cut_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_HDMI_Para_Cut_0_0 (xilinx.com:user:HDMI_Para_Cut:1.0) from (Rev. 9) to (Rev. 10)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Sun Feb 18 01:17:58 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_DMA_Loop_top_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_DMA_Loop_top_0_0 (xilinx.com:user:DMA_Loop_top:1.0) from (Rev. 10) to (Rev. 11)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Sat Feb 17 21:28:19 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_HDMI_Para_Cut_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_HDMI_Para_Cut_0_0 (xilinx.com:user:HDMI_Para_Cut:1.0) from (Rev. 8) to (Rev. 9)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Sat Feb 17 20:10:03 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_DMA_Loop_top_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the update of design_1_DMA_Loop_top_0_0 (xilinx.com:user:DMA_Loop_top:1.0 (Rev. 10)) to current project options.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Fri Feb 16 15:31:31 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_HDMI_Para_Cut_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the update of design_1_HDMI_Para_Cut_0_0 (xilinx.com:user:HDMI_Para_Cut:1.0 (Rev. 8)) to current project options.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Fri Feb 16 15:31:08 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_HDMI_Para_Cut_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_HDMI_Para_Cut_0_0 (xilinx.com:user:HDMI_Para_Cut:1.0) from (Rev. 7) to (Rev. 8)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Fri Feb 16 15:18:39 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axilite_reg_deepth256_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axilite_reg_deepth256_0_0 (xilinx.com:user:axilite_reg_deepth256:1.0) from (Rev. 5) to (Rev. 6)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Fri Feb 16 15:18:39 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_HDMI_Para_Cut_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_HDMI_Para_Cut_0_0 (xilinx.com:user:HDMI_Para_Cut:1.0) from (Rev. 6) to (Rev. 7)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Fri Feb 16 15:18:39 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_DMA_Loop_top_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_DMA_Loop_top_0_0 (xilinx.com:user:DMA_Loop_top:1.0) from (Rev. 9) to (Rev. 10)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Thu Feb 15 20:50:58 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_xlconstant_2_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_xlconstant_2_0 (xilinx.com:ip:xlconstant:1.1) from (Rev. 7) to (Rev. 8)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Thu Feb 15 20:50:57 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_xlconstant_1_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_xlconstant_1_0 (xilinx.com:ip:xlconstant:1.1) from (Rev. 7) to (Rev. 8)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Thu Feb 15 20:50:57 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_xlconstant_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_xlconstant_0_0 (xilinx.com:ip:xlconstant:1.1) from (Rev. 7) to (Rev. 8)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Thu Feb 15 20:50:57 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_rst_ps7_0_200M_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_rst_ps7_0_200M_1 (xilinx.com:ip:proc_sys_reset:5.0) from (Rev. 13) to (Rev. 14)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Thu Feb 15 20:50:57 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_ps7_0_axi_periph_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_ps7_0_axi_periph_1 (xilinx.com:ip:axi_interconnect:2.1) from (Rev. 28) to (Rev. 30)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Thu Feb 15 20:50:57 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_mult_gen_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_mult_gen_0_0 (xilinx.com:ip:mult_gen:12.0) from (Rev. 18) to (Rev. 19)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Thu Feb 15 20:50:57 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_clk_wiz_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_clk_wiz_0_0 (xilinx.com:ip:clk_wiz:6.0) from (Rev. 11) to (Rev. 13)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Thu Feb 15 20:50:57 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_mem_intercon_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_mem_intercon_1 (xilinx.com:ip:axi_interconnect:2.1) from (Rev. 28) to (Rev. 30)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Thu Feb 15 20:50:57 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_DMA_Loop_top_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the update of design_1_DMA_Loop_top_0_0 (xilinx.com:user:DMA_Loop_top:1.0 (Rev. 9)) to current project options.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.2 (win64) Build 3671981 Fri Oct 14 05:00:03 MDT 2022
+| Date         : Thu Feb 15 20:01:05 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_DMA_Loop_top_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_DMA_Loop_top_0_0 (xilinx.com:user:DMA_Loop_top:1.0) from (Rev. 8) to (Rev. 9)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.2 (win64) Build 3671981 Fri Oct 14 05:00:03 MDT 2022
+| Date         : Thu Feb 15 19:57:01 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_DMA_Loop_top_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of design_1_DMA_Loop_top_0_0 (xilinx.com:user:DMA_Loop_top:1.0 (Rev. 8)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.2 (win64) Build 3671981 Fri Oct 14 05:00:03 MDT 2022
+| Date         : Thu Feb 15 18:28:46 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_DMA_Loop_top_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of design_1_DMA_Loop_top_0_0 (xilinx.com:user:DMA_Loop_top:1.0 (Rev. 8)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.2 (win64) Build 3671981 Fri Oct 14 05:00:03 MDT 2022
+| Date         : Thu Feb 15 18:14:12 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_HDMI_Para_Cut_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of design_1_HDMI_Para_Cut_0_0 (xilinx.com:user:HDMI_Para_Cut:1.0 (Rev. 6)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.2 (win64) Build 3671981 Fri Oct 14 05:00:03 MDT 2022
+| Date         : Thu Feb 15 18:14:12 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_DMA_Loop_top_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of design_1_DMA_Loop_top_0_0 (xilinx.com:user:DMA_Loop_top:1.0 (Rev. 8)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.2 (win64) Build 3671981 Fri Oct 14 05:00:03 MDT 2022
+| Date         : Thu Feb 15 17:55:07 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_DMA_Loop_top_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_DMA_Loop_top_0_0 (xilinx.com:user:DMA_Loop_top:1.0) from (Rev. 7) to (Rev. 8)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.2 (win64) Build 3671981 Fri Oct 14 05:00:03 MDT 2022
+| Date         : Wed Feb 14 23:49:35 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_HDMI_Para_Cut_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_HDMI_Para_Cut_0_0 (xilinx.com:user:HDMI_Para_Cut:1.0) from (Rev. 4) to (Rev. 6)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.2 (win64) Build 3671981 Fri Oct 14 05:00:03 MDT 2022
+| Date         : Wed Feb 14 22:09:37 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_DMA_Loop_top_0_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of design_1_DMA_Loop_top_0_0 (xilinx.com:user:DMA_Loop_top:1.0) from (Rev. 6) to (Rev. 7)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'design_1_DMA_Loop_top_0_0'. These changes may impact your design.
+
+
+-Upgraded port 'I_wr_index' width 8 differs from original width 1
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.2 (win64) Build 3671981 Fri Oct 14 05:00:03 MDT 2022
+| Date         : Wed Feb 14 22:00:21 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axilite_reg_deepth256_0_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of design_1_axilite_reg_deepth256_0_0 (xilinx.com:user:axilite_reg_deepth256:1.0) from (Rev. 4) to (Rev. 5)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'design_1_axilite_reg_deepth256_0_0'. These changes may impact your design.
+
+
+-Upgraded port 'ConfigeSet_Hdmi_Opera_Mode' width 4 differs from original width 32
+
+-Upgraded port 'ConfigeSet_Img_h' width 12 differs from original width 32
+
+-Upgraded port 'ConfigeSet_Img_w' width 12 differs from original width 32
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.2 (win64) Build 3671981 Fri Oct 14 05:00:03 MDT 2022
+| Date         : Wed Feb 14 18:46:15 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_HDMI_Para_Cut_0_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of design_1_HDMI_Para_Cut_0_0 (xilinx.com:user:HDMI_Para_Cut:1.0) from (Rev. 3) to (Rev. 4)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'design_1_HDMI_Para_Cut_0_0'. These changes may impact your design.
+
+
+-Upgraded port 'I_Pixel_Data' width 16 differs from original width 24
+
+-Upgrade has added port 'sel_bit'
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.2 (win64) Build 3671981 Fri Oct 14 05:00:03 MDT 2022
+| Date         : Wed Feb 14 18:07:31 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_DMA_Loop_top_0_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of design_1_DMA_Loop_top_0_0 (xilinx.com:user:DMA_Loop_top:1.0) from (Rev. 5) to (Rev. 6)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'design_1_DMA_Loop_top_0_0'. These changes may impact your design.
+
+
+-Upgraded port 'O_Post_data' width 16 differs from original width 24
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.2 (win64) Build 3671981 Fri Oct 14 05:00:03 MDT 2022
+| Date         : Wed Feb 14 17:22:08 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_HDMI_Para_Cut_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of design_1_HDMI_Para_Cut_0_0 (xilinx.com:user:HDMI_Para_Cut:1.0 (Rev. 3)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.2 (win64) Build 3671981 Fri Oct 14 05:00:03 MDT 2022
+| Date         : Wed Feb 14 17:21:57 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_HDMI_Para_Cut_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_HDMI_Para_Cut_0_0 (xilinx.com:user:HDMI_Para_Cut:1.0) from (Rev. 2) to (Rev. 3)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.2 (win64) Build 3671981 Fri Oct 14 05:00:03 MDT 2022
+| Date         : Wed Feb 14 17:21:06 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_HDMI_Para_Cut_0_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of design_1_HDMI_Para_Cut_0_0 (xilinx.com:user:HDMI_Para_Cut:1.0) from (Rev. 1) to (Rev. 2)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'design_1_HDMI_Para_Cut_0_0'. These changes may impact your design.
+
+
+-Upgrade has added port 'Cut_High'
+
+-Upgrade has added port 'Cut_Width'
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.2 (win64) Build 3671981 Fri Oct 14 05:00:03 MDT 2022
+| Date         : Wed Feb 14 15:51:31 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_DMA_Loop_top_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_DMA_Loop_top_0_0 (xilinx.com:user:DMA_Loop_top:1.0) from (Rev. 4) to (Rev. 5)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.2 (win64) Build 3671981 Fri Oct 14 05:00:03 MDT 2022
+| Date         : Wed Feb 14 15:49:29 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_DMA_Loop_top_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_DMA_Loop_top_0_0 (xilinx.com:user:DMA_Loop_top:1.0) from (Rev. 2) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.2 (win64) Build 3671981 Fri Oct 14 05:00:03 MDT 2022
+| Date         : Sun Feb 11 01:49:56 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_DMA_Custom_Mult_0_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of design_1_DMA_Custom_Mult_0_0 (xilinx.com:user:DMA_Custom_Mult:1.0) from (Rev. 2) to (Rev. 4)
+
+After upgrade, an IP may have parameter differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality.
+
+2. Customization warnings
+-------------------------
+
+Parameter 'C_M_TARGET_SLAVE_BASE_ADDR' is no longer present on the upgraded IP 'design_1_DMA_Custom_Mult_0_0', and cannot be set to '0x02000000'
+
+
+3. Debug Commands
+-----------------
+
+  The following debug information can be passed to Vivado as Tcl commands,
+in order to validate or debug the output of the upgrade flow.
+  You may consult any warnings from within this upgrade, and alter or remove
+the configuration parameter(s) which caused the warning; then execute the Tcl
+commands, and use the IP Customization GUI to verify the IP configuration.
+
+create_ip -vlnv xilinx.com:user:DMA_Custom_Mult:1.0 -user_name design_1_DMA_Custom_Mult_0_0
+set_property -dict "\
+  CONFIG.AXI_Buff_NUM {3} \
+  CONFIG.C_M_AXI_ADDR_WIDTH {32} \
+  CONFIG.C_M_AXI_ARUSER_WIDTH {0} \
+  CONFIG.C_M_AXI_AWUSER_WIDTH {0} \
+  CONFIG.C_M_AXI_BURST_LEN {256} \
+  CONFIG.C_M_AXI_BUSER_WIDTH {0} \
+  CONFIG.C_M_AXI_DATA_WIDTH {64} \
+  CONFIG.C_M_AXI_ID_WIDTH {1} \
+  CONFIG.C_M_AXI_RUSER_WIDTH {0} \
+  CONFIG.C_M_AXI_WUSER_WIDTH {0} \
+  CONFIG.Component_Name {design_1_DMA_Custom_Mult_0_0} \
+  CONFIG.I_Post_clk.ASSOCIATED_BUSIF {} \
+  CONFIG.I_Post_clk.ASSOCIATED_PORT {} \
+  CONFIG.I_Post_clk.ASSOCIATED_RESET {} \
+  CONFIG.I_Post_clk.CLK_DOMAIN {} \
+  CONFIG.I_Post_clk.FREQ_HZ {100000000} \
+  CONFIG.I_Post_clk.FREQ_TOLERANCE_HZ {0} \
+  CONFIG.I_Post_clk.INSERT_VIP {0} \
+  CONFIG.I_Post_clk.PHASE {0.0} \
+  CONFIG.I_Pre_clk.ASSOCIATED_BUSIF {} \
+  CONFIG.I_Pre_clk.ASSOCIATED_PORT {} \
+  CONFIG.I_Pre_clk.ASSOCIATED_RESET {} \
+  CONFIG.I_Pre_clk.CLK_DOMAIN {} \
+  CONFIG.I_Pre_clk.FREQ_HZ {100000000} \
+  CONFIG.I_Pre_clk.FREQ_TOLERANCE_HZ {0} \
+  CONFIG.I_Pre_clk.INSERT_VIP {0} \
+  CONFIG.I_Pre_clk.PHASE {0.0} \
+  CONFIG.I_image_h {1080} \
+  CONFIG.I_image_w {1920} \
+  CONFIG.Input_Data_width {24} \
+  CONFIG.M_AXI.ADDR_WIDTH {32} \
+  CONFIG.M_AXI.ARUSER_WIDTH {1} \
+  CONFIG.M_AXI.AWUSER_WIDTH {1} \
+  CONFIG.M_AXI.BUSER_WIDTH {1} \
+  CONFIG.M_AXI.CLK_DOMAIN {} \
+  CONFIG.M_AXI.DATA_WIDTH {64} \
+  CONFIG.M_AXI.FREQ_HZ {100000000} \
+  CONFIG.M_AXI.HAS_BRESP {1} \
+  CONFIG.M_AXI.HAS_BURST {1} \
+  CONFIG.M_AXI.HAS_CACHE {1} \
+  CONFIG.M_AXI.HAS_LOCK {1} \
+  CONFIG.M_AXI.HAS_PROT {1} \
+  CONFIG.M_AXI.HAS_QOS {1} \
+  CONFIG.M_AXI.HAS_REGION {0} \
+  CONFIG.M_AXI.HAS_RRESP {1} \
+  CONFIG.M_AXI.HAS_WSTRB {1} \
+  CONFIG.M_AXI.ID_WIDTH {1} \
+  CONFIG.M_AXI.INSERT_VIP {0} \
+  CONFIG.M_AXI.MAX_BURST_LENGTH {256} \
+  CONFIG.M_AXI.NUM_READ_OUTSTANDING {2} \
+  CONFIG.M_AXI.NUM_READ_THREADS {1} \
+  CONFIG.M_AXI.NUM_WRITE_OUTSTANDING {2} \
+  CONFIG.M_AXI.NUM_WRITE_THREADS {1} \
+  CONFIG.M_AXI.PHASE {0.0} \
+  CONFIG.M_AXI.PROTOCOL {AXI4} \
+  CONFIG.M_AXI.READ_WRITE_MODE {READ_WRITE} \
+  CONFIG.M_AXI.RUSER_BITS_PER_BYTE {0} \
+  CONFIG.M_AXI.RUSER_WIDTH {1} \
+  CONFIG.M_AXI.SUPPORTS_NARROW_BURST {1} \
+  CONFIG.M_AXI.WUSER_BITS_PER_BYTE {0} \
+  CONFIG.M_AXI.WUSER_WIDTH {1} \
+  CONFIG.M_AXI_ACLK.ASSOCIATED_BUSIF {M_AXI} \
+  CONFIG.M_AXI_ACLK.ASSOCIATED_PORT {} \
+  CONFIG.M_AXI_ACLK.ASSOCIATED_RESET {M_AXI_ARESETN} \
+  CONFIG.M_AXI_ACLK.CLK_DOMAIN {} \
+  CONFIG.M_AXI_ACLK.FREQ_HZ {100000000} \
+  CONFIG.M_AXI_ACLK.FREQ_TOLERANCE_HZ {0} \
+  CONFIG.M_AXI_ACLK.INSERT_VIP {0} \
+  CONFIG.M_AXI_ACLK.PHASE {0.0} \
+  CONFIG.M_AXI_ARESETN.INSERT_VIP {0} \
+  CONFIG.M_AXI_ARESETN.POLARITY {ACTIVE_LOW} \
+  CONFIG.Pixel_byte_num {4} " [get_ips design_1_DMA_Custom_Mult_0_0]
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.2 (win64) Build 3671981 Fri Oct 14 05:00:03 MDT 2022
+| Date         : Mon Feb  5 16:06:22 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axilite_reg_deepth256_0_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of design_1_axilite_reg_deepth256_0_0 (xilinx.com:user:axilite_reg_deepth256:1.0) from (Rev. 3) to (Rev. 4)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'design_1_axilite_reg_deepth256_0_0'. These changes may impact your design.
+
+
+-Upgrade has removed port 'ConfigeSet_Loop_Flag'
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.2 (win64) Build 3671981 Fri Oct 14 05:00:03 MDT 2022
+| Date         : Mon Feb  5 15:50:23 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axilite_reg_deepth256_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of design_1_axilite_reg_deepth256_0_0 (xilinx.com:user:axilite_reg_deepth256:1.0 (Rev. 3)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.2 (win64) Build 3671981 Fri Oct 14 05:00:03 MDT 2022
+| Date         : Mon Feb  5 15:50:11 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axilite_reg_deepth256_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axilite_reg_deepth256_0_0 (xilinx.com:user:axilite_reg_deepth256:1.0) from (Rev. 2) to (Rev. 3)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.2 (win64) Build 3671981 Fri Oct 14 05:00:03 MDT 2022
+| Date         : Mon Feb  5 15:46:54 2024
+| Host         : LAPTOP-H1858A6E running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axilite_reg_deepth256_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of design_1_axilite_reg_deepth256_0_0 (xilinx.com:user:axilite_reg_deepth256:1.0 (Rev. 2)) to Vivado generation flows.
+

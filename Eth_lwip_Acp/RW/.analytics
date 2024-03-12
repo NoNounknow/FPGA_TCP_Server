@@ -1,0 +1,112 @@
+timestamp=[2024-02-23 17:20:41], mode=WORKBENCH_START, duration=0:00:07.851, duration_ms=7851, data={}
+timestamp=[2024-02-23 17:20:41], mode=WORKBENCH_UI_INIT, duration=0:00:00.029, duration_ms=29, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2024-02-23 17:20:44], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.916, duration_ms=916, data={}
+timestamp=[2024-02-23 17:21:52], mode=APP_CREATION, duration=0:00:16.550, duration_ms=16550, data={name=tmp_demo, project_type=sdk, os=freertos10_xilinx, processor=ps7_cortexa9, runtime=cpp, platform=design_1_wrapper, application_type=application}
+timestamp=[2024-02-23 17:29:56], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.854, duration_ms=854, data={}
+timestamp=[2024-02-23 17:30:13], mode=WORKBENCH_START, duration=0:00:24.840, duration_ms=24840, data={}
+timestamp=[2024-02-23 17:30:14], mode=WORKBENCH_UI_INIT, duration=0:00:00.514, duration_ms=514, data={editors_count=1, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=EthLwip_Demo,EthLwip_Demo_system,RemoteSystemsTempFiles,design_1_wrapper}
+timestamp=[2024-02-23 18:04:19], mode=PLATFORM_GENERATION, duration=0:00:15.027, duration_ms=15027, data={name=design_1_wrapper}
+timestamp=[2024-02-23 18:05:16], mode=PLATFORM_GENERATION, duration=0:00:02.953, duration_ms=2953, data={name=design_1_wrapper}
+timestamp=[2024-02-23 18:06:22], mode=PLATFORM_GENERATION, duration=0:00:22.388, duration_ms=22388, data={name=design_1_wrapper}
+timestamp=[2024-02-23 18:06:31], mode=BUILD, duration=0:00:01.731, duration_ms=1731, data={name=EthLwip_Demo, configuration=Debug, clean_build=false}
+timestamp=[2024-02-23 18:06:36], mode=BUILD, duration=0:00:03.975, duration_ms=3975, data={name=EthLwip_Demo_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-23 18:08:18], mode=BUILD, duration=0:00:00.319, duration_ms=319, data={name=EthLwip_Demo, configuration=Debug, clean_build=false}
+timestamp=[2024-02-23 18:08:23], mode=BUILD, duration=0:00:04.882, duration_ms=4882, data={name=EthLwip_Demo_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-23 18:22:44], mode=BUILD, duration=0:00:00.334, duration_ms=334, data={name=EthLwip_Demo, configuration=Debug, clean_build=false}
+timestamp=[2024-02-23 18:22:50], mode=BUILD, duration=0:00:05.230, duration_ms=5230, data={name=EthLwip_Demo_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-23 18:40:36], mode=BUILD, duration=0:00:01.363, duration_ms=1363, data={name=EthLwip_Demo, configuration=Debug, clean_build=false}
+timestamp=[2024-02-23 18:40:41], mode=BUILD, duration=0:00:05.125, duration_ms=5125, data={name=EthLwip_Demo_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-23 18:40:48], mode=BUILD, duration=0:00:00.308, duration_ms=308, data={name=EthLwip_Demo, configuration=Debug, clean_build=false}
+timestamp=[2024-02-23 18:40:53], mode=BUILD, duration=0:00:04.929, duration_ms=4929, data={name=EthLwip_Demo_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-23 18:44:51], mode=BUILD, duration=0:00:01.827, duration_ms=1827, data={name=EthLwip_Demo, configuration=Debug, clean_build=false}
+timestamp=[2024-02-23 18:45:01], mode=BUILD, duration=0:00:05.562, duration_ms=5562, data={name=EthLwip_Demo_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-23 18:45:02], mode=BUILD, duration=0:00:00.379, duration_ms=379, data={name=EthLwip_Demo, configuration=Debug, clean_build=false}
+timestamp=[2024-02-23 18:45:08], mode=BUILD, duration=0:00:05.238, duration_ms=5238, data={name=EthLwip_Demo_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-23 20:45:22], mode=BUILD, duration=0:00:03.391, duration_ms=3391, data={name=EthLwip_Demo, configuration=Debug, clean_build=false}
+timestamp=[2024-02-23 20:45:36], mode=BUILD, duration=0:00:13.235, duration_ms=13235, data={name=EthLwip_Demo_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-23 20:45:38], mode=BUILD, duration=0:00:00.641, duration_ms=641, data={name=EthLwip_Demo, configuration=Debug, clean_build=false}
+timestamp=[2024-02-23 20:45:47], mode=BUILD, duration=0:00:08.135, duration_ms=8135, data={name=EthLwip_Demo_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-23 21:32:37], mode=BUILD, duration=0:00:01.637, duration_ms=1637, data={name=EthLwip_Demo, configuration=Debug, clean_build=false}
+timestamp=[2024-02-23 21:32:43], mode=BUILD, duration=0:00:05.544, duration_ms=5544, data={name=EthLwip_Demo_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-23 21:32:48], mode=BUILD, duration=0:00:00.373, duration_ms=373, data={name=EthLwip_Demo, configuration=Debug, clean_build=false}
+timestamp=[2024-02-23 21:32:54], mode=BUILD, duration=0:00:05.439, duration_ms=5439, data={name=EthLwip_Demo_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-23 21:36:38], mode=BUILD, duration=0:00:01.175, duration_ms=1175, data={name=EthLwip_Demo, configuration=Debug, clean_build=false}
+timestamp=[2024-02-23 21:36:44], mode=BUILD, duration=0:00:05.120, duration_ms=5120, data={name=EthLwip_Demo_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-23 21:36:46], mode=BUILD, duration=0:00:00.304, duration_ms=304, data={name=EthLwip_Demo, configuration=Debug, clean_build=false}
+timestamp=[2024-02-23 21:36:52], mode=BUILD, duration=0:00:04.986, duration_ms=4986, data={name=EthLwip_Demo_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-23 21:39:38], mode=BUILD, duration=0:00:00.875, duration_ms=875, data={name=EthLwip_Demo, configuration=Debug, clean_build=false}
+timestamp=[2024-02-23 21:39:43], mode=BUILD, duration=0:00:04.809, duration_ms=4809, data={name=EthLwip_Demo_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-23 21:39:51], mode=BUILD, duration=0:00:00.299, duration_ms=299, data={name=EthLwip_Demo, configuration=Debug, clean_build=false}
+timestamp=[2024-02-23 21:39:56], mode=BUILD, duration=0:00:04.879, duration_ms=4879, data={name=EthLwip_Demo_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-23 21:43:41], mode=BUILD, duration=0:00:00.939, duration_ms=939, data={name=EthLwip_Demo, configuration=Debug, clean_build=false}
+timestamp=[2024-02-23 21:43:46], mode=BUILD, duration=0:00:04.807, duration_ms=4807, data={name=EthLwip_Demo_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-23 21:43:49], mode=BUILD, duration=0:00:00.311, duration_ms=311, data={name=EthLwip_Demo, configuration=Debug, clean_build=false}
+timestamp=[2024-02-23 21:43:55], mode=BUILD, duration=0:00:05.655, duration_ms=5655, data={name=EthLwip_Demo_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-23 22:13:58], mode=PLATFORM_GENERATION, duration=0:00:03.230, duration_ms=3230, data={name=design_1_wrapper}
+timestamp=[2024-02-23 22:14:00], mode=BUILD, duration=0:00:01.545, duration_ms=1545, data={name=EthLwip_Demo, configuration=Debug, clean_build=false}
+timestamp=[2024-02-23 22:14:05], mode=BUILD, duration=0:00:05.101, duration_ms=5101, data={name=EthLwip_Demo_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-23 22:14:16], mode=BUILD, duration=0:00:00.357, duration_ms=357, data={name=EthLwip_Demo, configuration=Debug, clean_build=false}
+timestamp=[2024-02-23 22:14:21], mode=BUILD, duration=0:00:04.842, duration_ms=4842, data={name=EthLwip_Demo_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-23 23:55:46], mode=BUILD, duration=0:00:03.376, duration_ms=3376, data={name=EthLwip_Demo, configuration=Debug, clean_build=false}
+timestamp=[2024-02-23 23:55:57], mode=BUILD, duration=0:00:10.538, duration_ms=10538, data={name=EthLwip_Demo_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-24 00:10:25], mode=BUILD, duration=0:00:00.652, duration_ms=652, data={name=EthLwip_Demo, configuration=Debug, clean_build=false}
+timestamp=[2024-02-24 00:10:35], mode=BUILD, duration=0:00:08.391, duration_ms=8391, data={name=EthLwip_Demo_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-24 02:27:16], mode=PLATFORM_GENERATION, duration=0:00:13.222, duration_ms=13222, data={name=design_1_wrapper}
+timestamp=[2024-02-24 02:38:18], mode=PLATFORM_GENERATION, duration=0:00:09.883, duration_ms=9883, data={name=design_1_wrapper}
+timestamp=[2024-02-24 02:39:20], mode=PLATFORM_GENERATION, duration=0:00:04.399, duration_ms=4399, data={name=design_1_wrapper}
+timestamp=[2024-02-24 02:40:42], mode=APP_CREATION, duration=0:00:21.577, duration_ms=21577, data={name=Tmp_demo, project_type=sdk, os=freertos10_xilinx, processor=ps7_cortexa9, runtime=cpp, platform=design_1_wrapper, application_type=application}
+timestamp=[2024-02-24 02:42:09], mode=PLATFORM_GENERATION, duration=0:00:29.312, duration_ms=29312, data={name=design_1_wrapper}
+timestamp=[2024-02-24 02:42:44], mode=BUILD, duration=0:00:02.076, duration_ms=2076, data={name=EthLwip_Demo, configuration=Debug, clean_build=false}
+timestamp=[2024-02-24 02:42:51], mode=BUILD, duration=0:00:06.673, duration_ms=6673, data={name=EthLwip_Demo_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-24 02:42:54], mode=BUILD, duration=0:00:00.375, duration_ms=375, data={name=EthLwip_Demo, configuration=Debug, clean_build=false}
+timestamp=[2024-02-24 02:43:01], mode=BUILD, duration=0:00:06.078, duration_ms=6078, data={name=EthLwip_Demo_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-24 22:07:13], mode=WORKBENCH_START, duration=0:00:58.526, duration_ms=58526, data={}
+timestamp=[2024-02-24 22:07:13], mode=WORKBENCH_UI_INIT, duration=0:00:00.128, duration_ms=128, data={editors_count=8, platform_editors_count=3, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=EthLwip_Demo,EthLwip_Demo_system,RemoteSystemsTempFiles,design_1_wrapper}
+timestamp=[2024-02-24 22:07:16], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:01.016, duration_ms=1016, data={}
+timestamp=[2024-02-25 01:17:11], mode=WORKBENCH_START, duration=0:00:19.413, duration_ms=19413, data={}
+timestamp=[2024-02-25 01:17:11], mode=WORKBENCH_UI_INIT, duration=0:00:00.155, duration_ms=155, data={editors_count=8, platform_editors_count=3, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=EthLwip_Demo,EthLwip_Demo_system,RemoteSystemsTempFiles,design_1_wrapper}
+timestamp=[2024-02-25 01:17:14], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.838, duration_ms=838, data={}
+timestamp=[2024-02-25 14:14:20], mode=WORKBENCH_START, duration=0:00:16.971, duration_ms=16971, data={}
+timestamp=[2024-02-25 14:14:20], mode=WORKBENCH_UI_INIT, duration=0:00:00.163, duration_ms=163, data={editors_count=8, platform_editors_count=3, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=EthLwip_Demo,EthLwip_Demo_system,RemoteSystemsTempFiles,design_1_wrapper}
+timestamp=[2024-02-25 14:14:23], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:01.023, duration_ms=1023, data={}
+timestamp=[2024-02-25 15:18:55], mode=APP_CREATION, duration=0:00:16.068, duration_ms=16068, data={name=FBSL, project_type=sdk, os=standalone, processor=cortex-a9, runtime=cpp, platform=design_1_wrapper, application_type=application}
+timestamp=[2024-02-25 15:22:59], mode=PLATFORM_GENERATION, duration=0:00:17.443, duration_ms=17443, data={name=design_1_wrapper}
+timestamp=[2024-02-25 15:23:00], mode=BUILD, duration=0:00:00.751, duration_ms=751, data={name=FBSL, configuration=Debug, clean_build=false}
+timestamp=[2024-02-25 15:24:40], mode=PLATFORM_GENERATION, duration=0:00:11.217, duration_ms=11217, data={name=design_1_wrapper}
+timestamp=[2024-02-25 16:07:08], mode=PLATFORM_GENERATION, duration=0:00:02.830, duration_ms=2830, data={name=design_1_wrapper}
+timestamp=[2024-02-25 16:07:17], mode=PLATFORM_GENERATION, duration=0:00:01.736, duration_ms=1736, data={name=design_1_wrapper}
+timestamp=[2024-02-25 16:07:27], mode=PLATFORM_GENERATION, duration=0:00:07.424, duration_ms=7424, data={name=design_1_wrapper}
+timestamp=[2024-02-25 16:10:02], mode=PLATFORM_GENERATION, duration=0:00:01.803, duration_ms=1803, data={name=design_1_wrapper}
+timestamp=[2024-02-25 16:10:52], mode=WORKBENCH_START, duration=0:00:27.215, duration_ms=27215, data={}
+timestamp=[2024-02-25 16:10:52], mode=WORKBENCH_UI_INIT, duration=0:00:00.187, duration_ms=187, data={editors_count=11, platform_editors_count=4, projects_count=6, platform_projects_count=1, active_platform_editor=true, projects=EthLwip_Demo,EthLwip_Demo_system,FBSL,FBSL_system,RemoteSystemsTempFiles,design_1_wrapper}
+timestamp=[2024-02-25 16:10:54], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.845, duration_ms=845, data={}
+timestamp=[2024-02-25 16:11:04], mode=PLATFORM_GENERATION, duration=0:00:07.572, duration_ms=7572, data={name=design_1_wrapper}
+timestamp=[2024-02-25 16:12:54], mode=PLATFORM_GENERATION, duration=0:00:23.671, duration_ms=23671, data={name=design_1_wrapper}
+timestamp=[2024-02-25 16:13:06], mode=BUILD, duration=0:00:00.177, duration_ms=177, data={name=EthLwip_Demo, configuration=Debug, clean_build=true}
+timestamp=[2024-02-25 16:13:06], mode=BUILD, duration=0:00:00.114, duration_ms=114, data={name=EthLwip_Demo_system, configuration=Debug, clean_build=true}
+timestamp=[2024-02-25 16:13:15], mode=PLATFORM_GENERATION, duration=0:00:06.300, duration_ms=6300, data={name=design_1_wrapper}
+timestamp=[2024-02-25 16:13:16], mode=BUILD, duration=0:00:00.167, duration_ms=167, data={name=FBSL, configuration=Debug, clean_build=true}
+timestamp=[2024-02-25 16:13:16], mode=BUILD, duration=0:00:00.116, duration_ms=116, data={name=FBSL_system, configuration=Debug, clean_build=true}
+timestamp=[2024-02-25 16:13:39], mode=PLATFORM_GENERATION, duration=0:00:23.272, duration_ms=23272, data={name=design_1_wrapper}
+timestamp=[2024-02-25 16:13:44], mode=BUILD, duration=0:00:03.255, duration_ms=3255, data={name=FBSL, configuration=Debug, clean_build=false}
+timestamp=[2024-02-25 16:13:49], mode=BUILD, duration=0:00:05.103, duration_ms=5103, data={name=FBSL_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-25 16:13:51], mode=BUILD, duration=0:00:01.495, duration_ms=1495, data={name=EthLwip_Demo, configuration=Debug, clean_build=false}
+timestamp=[2024-02-25 16:13:56], mode=BUILD, duration=0:00:04.673, duration_ms=4673, data={name=EthLwip_Demo_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-25 16:14:47], mode=BUILD, duration=0:00:00.287, duration_ms=287, data={name=EthLwip_Demo, configuration=Debug, clean_build=false}
+timestamp=[2024-02-25 16:14:51], mode=BUILD, duration=0:00:04.639, duration_ms=4639, data={name=EthLwip_Demo_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-25 16:14:55], mode=BUILD, duration=0:00:00.347, duration_ms=347, data={name=FBSL, configuration=Debug, clean_build=false}
+timestamp=[2024-02-25 16:15:00], mode=BUILD, duration=0:00:04.624, duration_ms=4624, data={name=FBSL_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-25 17:46:35], mode=PLATFORM_GENERATION, duration=0:00:07.198, duration_ms=7198, data={name=design_1_wrapper}
+timestamp=[2024-02-25 17:46:41], mode=PLATFORM_GENERATION, duration=0:00:01.851, duration_ms=1851, data={name=design_1_wrapper}
+timestamp=[2024-02-25 17:46:42], mode=BUILD, duration=0:00:00.175, duration_ms=175, data={name=FBSL, configuration=Debug, clean_build=true}
+timestamp=[2024-02-25 17:46:42], mode=BUILD, duration=0:00:00.102, duration_ms=102, data={name=FBSL_system, configuration=Debug, clean_build=true}
+timestamp=[2024-02-25 17:46:48], mode=BUILD, duration=0:00:00.170, duration_ms=170, data={name=EthLwip_Demo, configuration=Debug, clean_build=true}
+timestamp=[2024-02-25 17:46:48], mode=BUILD, duration=0:00:00.104, duration_ms=104, data={name=EthLwip_Demo_system, configuration=Debug, clean_build=true}
+timestamp=[2024-02-25 17:48:40], mode=PLATFORM_GENERATION, duration=0:00:30.829, duration_ms=30829, data={name=design_1_wrapper}
+timestamp=[2024-02-25 17:50:05], mode=APP_CREATION, duration=0:00:09.170, duration_ms=9170, data={name=FSBL, project_type=sdk, os=standalone, processor=cortex-a9, runtime=C/C++, platform=design_1_wrapper, application_type=application}
+timestamp=[2024-02-25 17:50:16], mode=BUILD, duration=0:00:03.411, duration_ms=3411, data={name=FSBL, configuration=Debug, clean_build=false}
+timestamp=[2024-02-25 17:50:22], mode=BUILD, duration=0:00:05.272, duration_ms=5272, data={name=FSBL_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-25 17:50:29], mode=BUILD, duration=0:00:01.582, duration_ms=1582, data={name=EthLwip_Demo, configuration=Debug, clean_build=false}
+timestamp=[2024-02-25 17:50:35], mode=BUILD, duration=0:00:04.848, duration_ms=4848, data={name=EthLwip_Demo_system, configuration=Debug, clean_build=false}
+timestamp=[2024-02-25 17:50:41], mode=BUILD, duration=0:00:00.290, duration_ms=290, data={name=EthLwip_Demo, configuration=Debug, clean_build=false}
+timestamp=[2024-02-25 17:50:46], mode=BUILD, duration=0:00:04.839, duration_ms=4839, data={name=EthLwip_Demo_system, configuration=Debug, clean_build=false}

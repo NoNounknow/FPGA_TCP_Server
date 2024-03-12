@@ -1,0 +1,10 @@
+12:02:36 **** Incremental Build of configuration Debug for project tmp_FILE ****
+make all 
+make --no-print-directory pre-build
+a9-linaro-pre-build-step
+' '
+make --no-print-directory main-build
+make[1]: Nothing to be done for 'main-build'.
+
+12:02:36 Build Finished (took 303ms)
+

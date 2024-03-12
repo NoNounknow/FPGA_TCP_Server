@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]D:\three_verilog\Eth_lwip_Acp\RW\FBSL\Debug\FBSL.elf
+	D:\three_verilog\Eth_lwip_Acp\Eth_lwip_Acp\Eth_lwip_Acp.runs\impl_1\design_1_wrapper.bit
+	D:\three_verilog\Eth_lwip_Acp\RW\EthLwip_Demo\Debug\EthLwip_Demo.elf
+}

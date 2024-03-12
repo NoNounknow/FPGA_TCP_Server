@@ -1,0 +1,66 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Default View_ScaleFactor":"0.795861",
+   "Default View_TopLeft":"514,349",
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.5.8 2022-09-21 7111 VDI=41 GEI=38 GUI=JA:10.0
+#  -string -flagsOSRD
+preplace port DDR -pg 1 -lvl 7 -x 2690 -y 580 -defaultsOSRD
+preplace port FIXED_IO -pg 1 -lvl 7 -x 2690 -y 600 -defaultsOSRD
+preplace port port-id_HDMI_CLK_P -pg 1 -lvl 7 -x 2690 -y 260 -defaultsOSRD
+preplace port port-id_HDMI_CLK_N -pg 1 -lvl 7 -x 2690 -y 280 -defaultsOSRD
+preplace portBus HDMI_TX_P -pg 1 -lvl 7 -x 2690 -y 300 -defaultsOSRD
+preplace portBus HDMI_TX_N -pg 1 -lvl 7 -x 2690 -y 320 -defaultsOSRD
+preplace portBus HDMI_OUT_EN -pg 1 -lvl 7 -x 2690 -y 910 -defaultsOSRD
+preplace inst processing_system7_0 -pg 1 -lvl 4 -x 1470 -y 590 -defaultsOSRD
+preplace inst ps7_0_axi_periph -pg 1 -lvl 5 -x 1890 -y 740 -defaultsOSRD
+preplace inst rst_ps7_0_200M -pg 1 -lvl 1 -x 220 -y 870 -defaultsOSRD
+preplace inst xlconstant_0 -pg 1 -lvl 1 -x 220 -y 1010 -defaultsOSRD
+preplace inst clk_wiz_0 -pg 1 -lvl 1 -x 220 -y 640 -defaultsOSRD
+preplace inst axilite_reg_deepth256_0 -pg 1 -lvl 6 -x 2260 -y 760 -defaultsOSRD
+preplace inst mult_gen_0 -pg 1 -lvl 1 -x 220 -y 470 -defaultsOSRD
+preplace inst xlconstant_1 -pg 1 -lvl 1 -x 220 -y 1110 -defaultsOSRD
+preplace inst Mux_51_0 -pg 1 -lvl 1 -x 220 -y 170 -defaultsOSRD
+preplace inst axi_mem_intercon -pg 1 -lvl 3 -x 1070 -y 540 -defaultsOSRD
+preplace inst xlconstant_2 -pg 1 -lvl 6 -x 2260 -y 910 -defaultsOSRD
+preplace inst HDMI_Para_Cut_0 -pg 1 -lvl 6 -x 2260 -y 290 -defaultsOSRD
+preplace inst DMA_Loop_top_0 -pg 1 -lvl 2 -x 650 -y 310 -defaultsOSRD
+preplace netloc DMA_Loop_top_0_O_Post_Start 1 2 4 800 260 NJ 260 NJ 260 NJ
+preplace netloc DMA_Loop_top_0_O_Post_data 1 2 4 810 280 NJ 280 NJ 280 NJ
+preplace netloc HDMI_Para_Cut_0_HDMI_CLK_N 1 6 1 NJ 280
+preplace netloc HDMI_Para_Cut_0_HDMI_CLK_P 1 6 1 NJ 260
+preplace netloc HDMI_Para_Cut_0_HDMI_TX_N 1 6 1 NJ 320
+preplace netloc HDMI_Para_Cut_0_HDMI_TX_P 1 6 1 NJ 300
+preplace netloc HDMI_Para_Cut_0_O_Pixel_Active 1 1 6 500 100 NJ 100 NJ 100 NJ 100 NJ 100 2450
+preplace netloc HDMI_Para_Cut_0_O_VGA_Sync 1 1 6 500 510 850J 400 NJ 400 NJ 400 2040J 420 2450
+preplace netloc Mux_51_0_O_S0 1 1 1 460J 130n
+preplace netloc axilite_reg_deepth256_0_ConfigeSet_Hdmi_Opera_Mode 1 5 2 2070 440 2460
+preplace netloc axilite_reg_deepth256_0_ConfigeSet_Img_h 1 0 7 50 550 NJ 550 820J 380 NJ 380 NJ 380 2060 450 2450
+preplace netloc axilite_reg_deepth256_0_ConfigeSet_Img_w 1 0 7 40 560 NJ 560 870J 390 NJ 390 NJ 390 2050 430 2470
+preplace netloc clk_wiz_0_Clk_5xPixel 1 1 5 420 120 NJ 120 NJ 120 NJ 120 2040J
+preplace netloc clk_wiz_0_Clk_PixelBase 1 1 5 410 110 NJ 110 NJ 110 NJ 110 2070J
+preplace netloc clk_wiz_0_locked 1 1 5 N 660 840J 300 NJ 300 NJ 300 NJ
+preplace netloc mult_gen_0_P 1 1 1 440 260n
+preplace netloc processing_system7_0_FCLK_CLK0 1 0 6 30 390 470 520 910 420 1240 740 1720 860 2040J
+preplace netloc processing_system7_0_FCLK_CLK1 1 0 5 50 720 NJ 720 NJ 720 NJ 720 1710
+preplace netloc processing_system7_0_FCLK_RESET0_N 1 0 5 50 730 NJ 730 NJ 730 NJ 730 1700
+preplace netloc processing_system7_0_GPIO_O 1 0 5 50 380 430J 500 860J 410 NJ 410 1700
+preplace netloc rst_ps7_0_200M_peripheral_aresetn 1 1 5 450 530 920 710 1220J 750 1740 870 2070J
+preplace netloc xlconstant_0_dout 1 1 1 490 280n
+preplace netloc xlconstant_1_dout 1 1 1 480J 220n
+preplace netloc xlconstant_2_dout 1 6 1 N 910
+preplace netloc DMA_Loop_top_0_M_AXI 1 2 1 830 230n
+preplace netloc axi_mem_intercon_M00_AXI 1 3 1 1220 540n
+preplace netloc processing_system7_0_DDR 1 4 3 NJ 560 NJ 560 2480J
+preplace netloc processing_system7_0_FIXED_IO 1 4 3 1740J 600 NJ 600 NJ
+preplace netloc processing_system7_0_M_AXI_GP0 1 4 1 1730 600n
+preplace netloc ps7_0_axi_periph_M00_AXI 1 5 1 N 740
+levelinfo -pg 1 0 220 650 1070 1470 1890 2260 2690
+pagesize -pg 1 -db -bbox -sgen 0 0 2870 1170
+"
+}
+{
+   "da_axi4_cnt":"8",
+   "da_clkrst_cnt":"1",
+   "da_ps7_cnt":"1"
+}

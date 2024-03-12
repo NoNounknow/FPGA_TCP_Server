@@ -1,0 +1,10 @@
+14:16:32 **** Incremental Build of configuration Debug for project EthLwip_Demo ****
+make all 
+make --no-print-directory pre-build
+a9-linaro-pre-build-step
+' '
+make --no-print-directory main-build
+make[1]: Nothing to be done for 'main-build'.
+
+14:16:33 Build Finished (took 290ms)
+

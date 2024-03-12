@@ -1,0 +1,16 @@
+Nothing to build in platform 'design_1_wrapper'
+
+14:16:32 **** Incremental Build of configuration Debug for project EthLwip_Demo ****
+make all 
+make --no-print-directory pre-build
+a9-linaro-pre-build-step
+' '
+make --no-print-directory main-build
+make[1]: Nothing to be done for 'main-build'.
+14:16:33 **** Incremental Build of configuration Debug for project EthLwip_Demo_system ****
+make all 
+Generating bif file for the system project
+generate_system_bif.bat 56944 D:/three_verilog/Eth_lwip/RW_18/design_1_wrapper/export/design_1_wrapper/design_1_wrapper.xpfm freertos10_xilinx_ps7_cortexa9_0 D:/three_verilog/Eth_lwip/RW_18/EthLwip_Demo_system/Debug/system.bif
+sdcard_gen --xpfm D:/three_verilog/Eth_lwip/RW_18/design_1_wrapper/export/design_1_wrapper/design_1_wrapper.xpfm --sys_config design_1_wrapper --bif D:/three_verilog/Eth_lwip/RW_18/EthLwip_Demo_system/Debug/system.bif --bitstream D:/three_verilog/Eth_lwip/RW_18/EthLwip_Demo/_ide/bitstream/design_1_wrapper.bit --elf D:/three_verilog/Eth_lwip/RW_18/EthLwip_Demo/Debug/EthLwip_Demo.elf,ps7_cortexa9_0
+creating BOOT.BIN using D:/three_verilog/Eth_lwip/RW_18/EthLwip_Demo/_ide/bitstream/design_1_wrapper.bit
+Running D:/Xil_23/Vitis/2023.2/bin/bootgen  -image D:/three_verilog/Eth_lwip/RW_18/EthLwip_Demo_system/Debug/sd_card_temp/boot.bif -w -o i BOOT.BIN

@@ -1,0 +1,418 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Sun Feb 18 23:04:31 2024
+# Process ID: 7664
+# Current directory: D:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.runs/design_1_HDMI_Para_Cut_0_0_synth_1
+# Command line: vivado.exe -log design_1_HDMI_Para_Cut_0_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source design_1_HDMI_Para_Cut_0_0.tcl
+# Log file: D:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.runs/design_1_HDMI_Para_Cut_0_0_synth_1/design_1_HDMI_Para_Cut_0_0.vds
+# Journal file: D:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.runs/design_1_HDMI_Para_Cut_0_0_synth_1\vivado.jou
+# Running On: LAPTOP-H1858A6E, OS: Windows, CPU Frequency: 2688 MHz, CPU Physical cores: 14, Host memory: 16828 MB
+#-----------------------------------------------------------
+source design_1_HDMI_Para_Cut_0_0.tcl -notrace
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+CRITICAL WARNING: [IP_Flow 19-11780] Skipping module reference component xilinx.com:module_ref:HDMI_TX:1.0 found in user repository d:/three_verilog/fpga_IP_define 
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'd:/three_verilog/fpga_IP_define'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Xil_23/Vivado/2023.2/data/ip'.
+INFO: [IP_Flow 19-6924] IPCACHE: Running cache check for IP inst: design_1_HDMI_Para_Cut_0_0
+Command: synth_design -top design_1_HDMI_Para_Cut_0_0 -part xc7z020clg400-1 -incremental_mode off -mode out_of_context
+Starting synth_design
+Attempting to get a license for feature 'Synthesis' and/or device 'xc7z020'
+INFO: [Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7z020'
+INFO: [Device 21-403] Loading part xc7z020clg400-1
+INFO: [Synth 8-7079] Multithreading enabled for synth_design using a maximum of 2 processes.
+INFO: [Synth 8-7078] Launching helper process for spawning children vivado processes
+INFO: [Synth 8-7075] Helper process launched with PID 27668
+---------------------------------------------------------------------------------
+Starting RTL Elaboration : Time (s): cpu = 00:00:01 ; elapsed = 00:00:09 . Memory (MB): peak = 1463.914 ; gain = 438.570
+---------------------------------------------------------------------------------
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_ext.vh:30]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_ext.vh:32]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_ext.vh:69]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_ext.vh:71]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_ext.vh:109]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_ext.vh:111]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_ext.vh:150]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_ext.vh:152]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_ext.vh:192]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_ext.vh:194]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_ext.vh:235]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_ext.vh:237]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_ext.vh:279]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_ext.vh:281]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_ext.vh:324]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_ext.vh:326]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_ext.vh:370]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_ext.vh:372]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_ext.vh:417]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_ext.vh:419]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_ext.vh:465]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_ext.vh:467]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_ext.vh:514]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_ext.vh:516]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_ext.vh:564]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_ext.vh:566]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_ext.vh:615]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_ext.vh:617]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core.vh:30]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core.vh:32]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core.vh:69]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core.vh:71]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core.vh:109]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core.vh:111]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core.vh:150]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core.vh:152]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core.vh:192]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core.vh:194]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core.vh:235]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core.vh:237]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core.vh:279]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core.vh:281]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core.vh:324]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core.vh:326]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core.vh:370]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core.vh:372]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core.vh:417]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core.vh:419]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core.vh:465]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core.vh:467]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core.vh:514]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core.vh:516]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core.vh:564]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core.vh:566]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core.vh:615]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core.vh:617]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:30]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:32]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:65]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:67]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:100]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:102]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:135]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:137]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:170]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:172]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:205]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:207]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:240]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:242]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:275]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:277]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:310]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:312]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:345]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:347]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:380]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:382]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:415]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:417]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:450]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:452]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:485]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:487]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:30]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:32]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:65]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:67]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:100]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:102]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:135]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:137]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:170]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:172]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:205]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:207]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:240]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:242]
+INFO: [Synth 8-11241] undeclared symbol 'tms_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:275]
+INFO: [Synth 8-11241] undeclared symbol 'runtest_int', assumed default net type 'wire' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/hdl/verilog/xsdbm_v3_0_0_bs_core_vec.vh:277]
+INFO: [Common 17-14] Message 'Synth 8-11241' appears 100 times and further instances of the messages will be disabled. Use the Tcl command set_msg_config to change the current settings.
+INFO: [Synth 8-6157] synthesizing module 'design_1_HDMI_Para_Cut_0_0' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/synth/design_1_HDMI_Para_Cut_0_0.v:53]
+INFO: [Synth 8-6157] synthesizing module 'HDMI_TX' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ipshared/0df3/hdmi/HDMI_TX.v:1]
+INFO: [Synth 8-6157] synthesizing module 'asyn_rst_syn' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ipshared/0df3/hdmi/asyn_rst_syn.v:1]
+INFO: [Synth 8-6155] done synthesizing module 'asyn_rst_syn' (0#1) [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ipshared/0df3/hdmi/asyn_rst_syn.v:1]
+INFO: [Synth 8-6157] synthesizing module 'VTC_TIMEING' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ipshared/0df3/hdmi/VTC_TIMEING.v:3]
+INFO: [Synth 8-6155] done synthesizing module 'VTC_TIMEING' (0#1) [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ipshared/0df3/hdmi/VTC_TIMEING.v:3]
+WARNING: [Synth 8-7071] port 'O_vtc_user' of module 'VTC_TIMEING' is unconnected for instance 'VTC_TIMEING' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ipshared/0df3/hdmi/HDMI_TX.v:201]
+WARNING: [Synth 8-7071] port 'O_vtc_last' of module 'VTC_TIMEING' is unconnected for instance 'VTC_TIMEING' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ipshared/0df3/hdmi/HDMI_TX.v:201]
+WARNING: [Synth 8-7023] instance 'VTC_TIMEING' of module 'VTC_TIMEING' has 7 connections declared, but only 5 given [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ipshared/0df3/hdmi/HDMI_TX.v:201]
+INFO: [Synth 8-6157] synthesizing module 'Gamma_06_Period' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ipshared/0df3/image_process/Gamma_06_Period.v:2]
+INFO: [Synth 8-6155] done synthesizing module 'Gamma_06_Period' (0#1) [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ipshared/0df3/image_process/Gamma_06_Period.v:2]
+INFO: [Synth 8-6157] synthesizing module 'encode' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ipshared/0df3/hdmi/encode.v:46]
+INFO: [Synth 8-6155] done synthesizing module 'encode' (0#1) [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ipshared/0df3/hdmi/encode.v:46]
+INFO: [Synth 8-6157] synthesizing module 'serializer_10_to_1' [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ipshared/0df3/hdmi/serializer_10_to_1.v:26]
+INFO: [Synth 8-6157] synthesizing module 'OSERDESE2' [D:/Xil_23/Vivado/2023.2/scripts/rt/data/unisim_comp.v:97310]
+INFO: [Synth 8-6155] done synthesizing module 'OSERDESE2' (0#1) [D:/Xil_23/Vivado/2023.2/scripts/rt/data/unisim_comp.v:97310]
+INFO: [Synth 8-6157] synthesizing module 'OSERDESE2__parameterized0' [D:/Xil_23/Vivado/2023.2/scripts/rt/data/unisim_comp.v:97310]
+INFO: [Synth 8-6155] done synthesizing module 'OSERDESE2__parameterized0' (0#1) [D:/Xil_23/Vivado/2023.2/scripts/rt/data/unisim_comp.v:97310]
+INFO: [Synth 8-6155] done synthesizing module 'serializer_10_to_1' (0#1) [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ipshared/0df3/hdmi/serializer_10_to_1.v:26]
+INFO: [Synth 8-6157] synthesizing module 'OBUFDS' [D:/Xil_23/Vivado/2023.2/scripts/rt/data/unisim_comp.v:93073]
+INFO: [Synth 8-6155] done synthesizing module 'OBUFDS' (0#1) [D:/Xil_23/Vivado/2023.2/scripts/rt/data/unisim_comp.v:93073]
+INFO: [Synth 8-6155] done synthesizing module 'HDMI_TX' (0#1) [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ipshared/0df3/hdmi/HDMI_TX.v:1]
+INFO: [Synth 8-6155] done synthesizing module 'design_1_HDMI_Para_Cut_0_0' (0#1) [d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/synth/design_1_HDMI_Para_Cut_0_0.v:53]
+---------------------------------------------------------------------------------
+Finished RTL Elaboration : Time (s): cpu = 00:00:03 ; elapsed = 00:00:17 . Memory (MB): peak = 1839.926 ; gain = 814.582
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:03 ; elapsed = 00:00:17 . Memory (MB): peak = 1839.926 ; gain = 814.582
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 1 : Time (s): cpu = 00:00:03 ; elapsed = 00:00:17 . Memory (MB): peak = 1839.926 ; gain = 814.582
+---------------------------------------------------------------------------------
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.007 . Memory (MB): peak = 1839.926 ; gain = 0.000
+INFO: [Netlist 29-17] Analyzing 4 Unisim elements for replacement
+INFO: [Netlist 29-28] Unisim Transformation completed in 0 CPU seconds
+INFO: [Project 1-570] Preparing netlist for logic optimization
+
+Processing XDC Constraints
+Initializing timing engine
+CRITICAL WARNING: [Designutils 20-1280] Could not find module 'HDMI_ILA'. The XDC file d:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.gen/sources_1/bd/design_1/ip/design_1_HDMI_Para_Cut_0_0/src/HDMI_ILA/ila_v6_2/constraints/ila.xdc will not be read for any cell of this module.
+Parsing XDC File [D:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.runs/design_1_HDMI_Para_Cut_0_0_synth_1/dont_touch.xdc]
+Finished Parsing XDC File [D:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.runs/design_1_HDMI_Para_Cut_0_0_synth_1/dont_touch.xdc]
+INFO: [Project 1-236] Implementation specific constraints were found while reading constraint file [D:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.runs/design_1_HDMI_Para_Cut_0_0_synth_1/dont_touch.xdc]. These constraints will be ignored for synthesis but will be used in implementation. Impacted constraints are listed in the file [.Xil/design_1_HDMI_Para_Cut_0_0_propImpl.xdc].
+Resolution: To avoid this warning, move constraints listed in [.Xil/design_1_HDMI_Para_Cut_0_0_propImpl.xdc] to another XDC file and exclude this new file from synthesis with the used_in_synthesis property (File Properties dialog in GUI) and re-run elaboration/synthesis.
+Completed Processing XDC Constraints
+
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.001 . Memory (MB): peak = 1939.145 ; gain = 0.000
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+Constraint Validation Runtime : Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.021 . Memory (MB): peak = 1939.145 ; gain = 0.000
+INFO: [Designutils 20-5008] Incremental synthesis strategy off
+---------------------------------------------------------------------------------
+Finished Constraint Validation : Time (s): cpu = 00:00:05 ; elapsed = 00:00:23 . Memory (MB): peak = 1939.145 ; gain = 913.801
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Loading Part and Timing Information
+---------------------------------------------------------------------------------
+Loading part: xc7z020clg400-1
+---------------------------------------------------------------------------------
+Finished Loading Part and Timing Information : Time (s): cpu = 00:00:05 ; elapsed = 00:00:23 . Memory (MB): peak = 1939.145 ; gain = 913.801
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Applying 'set_property' XDC Constraints
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished applying 'set_property' XDC Constraints : Time (s): cpu = 00:00:05 ; elapsed = 00:00:23 . Memory (MB): peak = 1939.145 ; gain = 913.801
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 2 : Time (s): cpu = 00:00:05 ; elapsed = 00:00:24 . Memory (MB): peak = 1939.145 ; gain = 913.801
+---------------------------------------------------------------------------------
+INFO: [Synth 8-223] decloning instance 'inst/Red_Gamma_06' (Gamma_06_Period) to 'inst/Gre_Gamma_06'
+INFO: [Synth 8-223] decloning instance 'inst/Red_Gamma_06' (Gamma_06_Period) to 'inst/Blu_Gamma_06'
+INFO: [Synth 8-223] decloning instance 'inst/Inst0_Green_EnCode' (encode) to 'inst/Inst0_Red_EnCode'
+---------------------------------------------------------------------------------
+Start RTL Component Statistics 
+---------------------------------------------------------------------------------
+Detailed RTL Component Info : 
++---Adders : 
+	   2 Input   32 Bit       Adders := 2     
+	   3 Input   13 Bit       Adders := 2     
+	   2 Input   12 Bit       Adders := 7     
+	   2 Input   11 Bit       Adders := 1     
+	   5 Input    5 Bit       Adders := 4     
+	   4 Input    5 Bit       Adders := 2     
+	   8 Input    4 Bit       Adders := 4     
+	   2 Input    4 Bit       Adders := 2     
+	   2 Input    3 Bit       Adders := 1     
++---XORs : 
+	   2 Input      1 Bit         XORs := 28    
++---Registers : 
+	               12 Bit    Registers := 7     
+	               11 Bit    Registers := 1     
+	               10 Bit    Registers := 2     
+	                9 Bit    Registers := 2     
+	                8 Bit    Registers := 3     
+	                5 Bit    Registers := 2     
+	                4 Bit    Registers := 8     
+	                3 Bit    Registers := 1     
+	                1 Bit    Registers := 25    
++---ROMs : 
+	                    ROMs := 1     
++---Muxes : 
+	   2 Input   12 Bit        Muxes := 3     
+	   5 Input   10 Bit        Muxes := 2     
+	   2 Input   10 Bit        Muxes := 4     
+	   2 Input    8 Bit        Muxes := 2     
+	   2 Input    5 Bit        Muxes := 8     
+	   2 Input    4 Bit        Muxes := 2     
+	   2 Input    1 Bit        Muxes := 19    
+---------------------------------------------------------------------------------
+Finished RTL Component Statistics 
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Part Resource Summary
+---------------------------------------------------------------------------------
+Part Resources:
+DSPs: 220 (col length:60)
+BRAMs: 280 (col length: RAMB18 60 RAMB36 30)
+---------------------------------------------------------------------------------
+Finished Part Resource Summary
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Cross Boundary and Area Optimization
+---------------------------------------------------------------------------------
+WARNING: [Synth 8-7080] Parallel synthesis criteria is not met
+---------------------------------------------------------------------------------
+Finished Cross Boundary and Area Optimization : Time (s): cpu = 00:00:06 ; elapsed = 00:00:27 . Memory (MB): peak = 1939.145 ; gain = 913.801
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start ROM, RAM, DSP, Shift Register and Retiming Reporting
+---------------------------------------------------------------------------------
+
+ROM: Preliminary Mapping Report
++---------------------------+---------------------------------+---------------+----------------+
+|Module Name                | RTL Object                      | Depth x Width | Implemented As | 
++---------------------------+---------------------------------+---------------+----------------+
+|design_1_HDMI_Para_Cut_0_0 | inst/Red_Gamma_06/Post_Data_reg | 256x8         | Block RAM      | 
++---------------------------+---------------------------------+---------------+----------------+
+
+---------------------------------------------------------------------------------
+Finished ROM, RAM, DSP, Shift Register and Retiming Reporting
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Applying XDC Timing Constraints
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Applying XDC Timing Constraints : Time (s): cpu = 00:00:07 ; elapsed = 00:00:31 . Memory (MB): peak = 1939.145 ; gain = 913.801
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Timing Optimization
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Timing Optimization : Time (s): cpu = 00:00:07 ; elapsed = 00:00:31 . Memory (MB): peak = 1939.145 ; gain = 913.801
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Technology Mapping
+---------------------------------------------------------------------------------
+INFO: [Synth 8-7052] The timing for the instance inst/Red_Gamma_06/Post_Data_reg (implemented as a Block RAM) might be sub-optimal as no optional output register could be merged into the ram block. Providing additional output register may help in improving timing.
+---------------------------------------------------------------------------------
+Finished Technology Mapping : Time (s): cpu = 00:00:07 ; elapsed = 00:00:31 . Memory (MB): peak = 1939.145 ; gain = 913.801
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Flattening Before IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Flattening Before IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Final Netlist Cleanup
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Final Netlist Cleanup
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished IO Insertion : Time (s): cpu = 00:00:07 ; elapsed = 00:00:34 . Memory (MB): peak = 1939.145 ; gain = 913.801
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Instances
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Instances : Time (s): cpu = 00:00:07 ; elapsed = 00:00:34 . Memory (MB): peak = 1939.145 ; gain = 913.801
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Rebuilding User Hierarchy
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Rebuilding User Hierarchy : Time (s): cpu = 00:00:07 ; elapsed = 00:00:34 . Memory (MB): peak = 1939.145 ; gain = 913.801
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Ports
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Ports : Time (s): cpu = 00:00:07 ; elapsed = 00:00:34 . Memory (MB): peak = 1939.145 ; gain = 913.801
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:07 ; elapsed = 00:00:34 . Memory (MB): peak = 1939.145 ; gain = 913.801
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Nets
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Nets : Time (s): cpu = 00:00:07 ; elapsed = 00:00:34 . Memory (MB): peak = 1939.145 ; gain = 913.801
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start ROM, RAM, DSP, Shift Register and Retiming Reporting
+---------------------------------------------------------------------------------
+
+Static Shift Register Report:
++---------------------------+-----------------------------------+--------+-------+--------------+--------------------+-------------------+--------+---------+
+|Module Name                | RTL Name                          | Length | Width | Reset Signal | Pull out first Reg | Pull out last Reg | SRL16E | SRLC32E | 
++---------------------------+-----------------------------------+--------+-------+--------------+--------------------+-------------------+--------+---------+
+|design_1_HDMI_Para_Cut_0_0 | inst/Inst0_Blue_EnCode/de_reg_reg | 3      | 1     | NO           | NO                 | YES               | 1      | 0       | 
+|design_1_HDMI_Para_Cut_0_0 | inst/Inst0_Blue_EnCode/c0_reg_reg | 3      | 1     | NO           | NO                 | YES               | 1      | 0       | 
+|design_1_HDMI_Para_Cut_0_0 | inst/Inst0_Blue_EnCode/c1_reg_reg | 4      | 1     | NO           | NO                 | YES               | 1      | 0       | 
++---------------------------+-----------------------------------+--------+-------+--------------+--------------------+-------------------+--------+---------+
+
+---------------------------------------------------------------------------------
+Finished ROM, RAM, DSP, Shift Register and Retiming Reporting
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Writing Synthesis Report
+---------------------------------------------------------------------------------
+
+Report BlackBoxes: 
++-+--------------+----------+
+| |BlackBox name |Instances |
++-+--------------+----------+
++-+--------------+----------+
+
+Report Cell Usage: 
++------+----------+------+
+|      |Cell      |Count |
++------+----------+------+
+|1     |CARRY4    |    31|
+|2     |LUT1      |    49|
+|3     |LUT2      |    63|
+|4     |LUT3      |    36|
+|5     |LUT4      |    43|
+|6     |LUT5      |    43|
+|7     |LUT6      |    78|
+|8     |OSERDESE2 |     8|
+|10    |RAMB18E1  |     1|
+|11    |SRL16E    |     3|
+|12    |FDCE      |    31|
+|13    |FDPE      |     2|
+|14    |FDRE      |   136|
+|15    |OBUFDS    |     4|
++------+----------+------+
+---------------------------------------------------------------------------------
+Finished Writing Synthesis Report : Time (s): cpu = 00:00:07 ; elapsed = 00:00:34 . Memory (MB): peak = 1939.145 ; gain = 913.801
+---------------------------------------------------------------------------------
+Synthesis finished with 0 errors, 0 critical warnings and 1 warnings.
+Synthesis Optimization Runtime : Time (s): cpu = 00:00:03 ; elapsed = 00:00:33 . Memory (MB): peak = 1939.145 ; gain = 814.582
+Synthesis Optimization Complete : Time (s): cpu = 00:00:07 ; elapsed = 00:00:35 . Memory (MB): peak = 1939.145 ; gain = 913.801
+INFO: [Project 1-571] Translating synthesized netlist
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.006 . Memory (MB): peak = 1939.145 ; gain = 0.000
+INFO: [Netlist 29-17] Analyzing 36 Unisim elements for replacement
+INFO: [Netlist 29-28] Unisim Transformation completed in 0 CPU seconds
+INFO: [Project 1-570] Preparing netlist for logic optimization
+INFO: [Opt 31-138] Pushed 0 inverter(s) to 0 load pin(s).
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1939.145 ; gain = 0.000
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+Synth Design complete | Checksum: ab6d1ac0
+INFO: [Common 17-83] Releasing license: Synthesis
+147 Infos, 4 Warnings, 2 Critical Warnings and 0 Errors encountered.
+synth_design completed successfully
+synth_design: Time (s): cpu = 00:00:09 ; elapsed = 00:00:39 . Memory (MB): peak = 1939.145 ; gain = 1326.664
+Write ShapeDB Complete: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.001 . Memory (MB): peak = 1939.145 ; gain = 0.000
+INFO: [Common 17-1381] The checkpoint 'D:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.runs/design_1_HDMI_Para_Cut_0_0_synth_1/design_1_HDMI_Para_Cut_0_0.dcp' has been generated.
+INFO: [runtcl-6] Synthesis results are not added to the cache due to CRITICAL_WARNING
+INFO: [Coretcl 2-1174] Renamed 10 cell refs.
+Write ShapeDB Complete: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.002 . Memory (MB): peak = 1939.145 ; gain = 0.000
+INFO: [Common 17-1381] The checkpoint 'D:/three_verilog/Eth_lwip/HW/Lwip_server_hw/Lwip_server_hw.runs/design_1_HDMI_Para_Cut_0_0_synth_1/design_1_HDMI_Para_Cut_0_0.dcp' has been generated.
+INFO: [runtcl-4] Executing : report_utilization -file design_1_HDMI_Para_Cut_0_0_utilization_synth.rpt -pb design_1_HDMI_Para_Cut_0_0_utilization_synth.pb
+INFO: [Common 17-206] Exiting Vivado at Sun Feb 18 23:05:20 2024...
